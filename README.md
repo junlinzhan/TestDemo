@@ -5,9 +5,9 @@
 >
 >   2.示例二
 >   
->   示例
+>   示例
 >
->     com.google.code.shardbatis.plugin.ShardPlugin
+>     com.google.code.shardbatis.plugin.ShardPlugin
 >
 >   示例
 >
