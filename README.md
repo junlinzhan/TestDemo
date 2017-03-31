@@ -6,8 +6,10 @@
 >   2.示例二
 >   
 >   示例
->     这是示例一
+>
+>     com.google.code.shardbatis.plugin.ShardPlugin
 >
 >   示例
->     这是示例二
+>
+>     com.google.code.shardbatis.plugin.ShardPlugin
 >
